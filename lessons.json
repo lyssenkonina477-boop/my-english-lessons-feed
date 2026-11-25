@@ -1,0 +1,714 @@
+{
+  "lessons": [
+    {
+      "id": "feed-2026-11-18",
+      "title": "Игнатова: конференция и подготовка видеозвонка",
+      "kind": "modern",
+      "forDate": "2026-11-18",
+      "desc": "6 тренировочных классических и 12 современных реплик; урок 18 ноября в 10:00 МСК.",
+      "turns": [
+        [
+          "A",
+          "Did you enjoy the conference yesterday?",
+          "Вам понравилась вчерашняя конференция?"
+        ],
+        [
+          "B",
+          "Yes, especially the discussion after the final talk.",
+          "Да, особенно обсуждение после последнего выступления."
+        ],
+        [
+          "A",
+          "Were there any guests from Switzerland?",
+          "Были ли гости из Швейцарии?"
+        ],
+        [
+          "B",
+          "Yes, Professor Berg came with two colleagues.",
+          "Да, профессор Берг приехал с двумя коллегами."
+        ],
+        [
+          "A",
+          "Would you like to meet them before they leave?",
+          "Вы хотели бы познакомиться с ними до их отъезда?"
+        ],
+        [
+          "B",
+          "Certainly. Could you introduce me to them?",
+          "Конечно. Не могли бы вы меня им представить?"
+        ],
+        [
+          "A",
+          "Have we agreed on a time for the video call?",
+          "Мы договорились о времени видеозвонка?"
+        ],
+        [
+          "B",
+          "Yes, Thursday at half past three works for everyone.",
+          "Да, четверг в половине четвёртого подходит всем."
+        ],
+        [
+          "A",
+          "Could you send the invitation with the meeting link?",
+          "Можешь отправить приглашение со ссылкой на встречу?"
+        ],
+        [
+          "B",
+          "I will send it as soon as I check the time zone.",
+          "Я отправлю его, как только проверю часовой пояс."
+        ],
+        [
+          "A",
+          "Do we need to test the screen-sharing feature?",
+          "Нам нужно проверить функцию демонстрации экрана?"
+        ],
+        [
+          "B",
+          "Yes, I want to show two questions on the screen.",
+          "Да, я хочу показать на экране два вопроса."
+        ],
+        [
+          "A",
+          "What should we do if the connection drops?",
+          "Что нам делать, если соединение прервётся?"
+        ],
+        [
+          "B",
+          "We can call her back and continue without video.",
+          "Мы можем перезвонить ей и продолжить без видео."
+        ],
+        [
+          "A",
+          "Who will keep track of the time?",
+          "Кто будет следить за временем?"
+        ],
+        [
+          "B",
+          "I will, and I will give you a signal after ten minutes.",
+          "Я, и через десять минут я подам тебе знак."
+        ],
+        [
+          "A",
+          "Shall we finish by thanking her for the follow-up?",
+          "Завершим разговор благодарностью за дополнительную беседу?"
+        ],
+        [
+          "B",
+          "Yes, and we can explain when she will receive the summary.",
+          "Да, и мы можем объяснить, когда она получит краткое резюме."
+        ]
+      ]
+    },
+    {
+      "id": "feed-2026-11-19",
+      "title": "Игнатова: Нора Норт и итоги видеозвонка",
+      "kind": "modern",
+      "forDate": "2026-11-19",
+      "desc": "6 классических тренировочных и 12 современных реплик. 19 ноября, 10:00 МСК.",
+      "turns": [
+        [
+          "A",
+          "Have you met Nora North from Oslo?",
+          "Вы знакомы с Норой Норт из Осло?"
+        ],
+        [
+          "B",
+          "Not personally, but I have heard about her work.",
+          "Лично нет, но я слышал о её работе."
+        ],
+        [
+          "A",
+          "She is a lawyer and an excellent speaker.",
+          "Она юрист и прекрасный оратор."
+        ],
+        [
+          "B",
+          "Is she taking part in the discussion today?",
+          "Она участвует в сегодняшнем обсуждении?"
+        ],
+        [
+          "A",
+          "Yes, she is speaking after Mr. West.",
+          "Да, она выступает после мистера Уэста."
+        ],
+        [
+          "B",
+          "Then I shall stay and listen to both of them.",
+          "Тогда я останусь и послушаю их обоих."
+        ],
+        [
+          "A",
+          "The video call went well. Shall we write a short summary?",
+          "Видеозвонок прошёл хорошо. Напишем краткое резюме?"
+        ],
+        [
+          "B",
+          "Yes, but first let us check our notes.",
+          "Да, но сначала давай проверим наши записи."
+        ],
+        [
+          "A",
+          "I wrote down three important points.",
+          "Я записал три важных момента."
+        ],
+        [
+          "B",
+          "Could you read the first one aloud?",
+          "Можешь прочитать первый вслух?"
+        ],
+        [
+          "A",
+          "She wants us to correct the date in the article.",
+          "Она хочет, чтобы мы исправили дату в статье."
+        ],
+        [
+          "B",
+          "Good catch. I will update it before lunch.",
+          "Хорошо, что заметили. Я исправлю её до обеда."
+        ],
+        [
+          "A",
+          "The second point is about the photographs.",
+          "Второй пункт касается фотографий."
+        ],
+        [
+          "B",
+          "We should ask for permission before using them.",
+          "Нам следует спросить разрешение, прежде чем их использовать."
+        ],
+        [
+          "A",
+          "Agreed. What about the final question?",
+          "Согласен. А что насчёт последнего вопроса?"
+        ],
+        [
+          "B",
+          "She promised to send a written answer tomorrow.",
+          "Она обещала прислать письменный ответ завтра."
+        ],
+        [
+          "A",
+          "Let us send her the draft summary for approval.",
+          "Давай отправим ей черновик резюме на согласование."
+        ],
+        [
+          "B",
+          "I will attach it to an email and copy you in.",
+          "Я приложу его к письму и поставлю тебя в копию."
+        ]
+      ],
+      "speaking": [
+        [
+          "What should we check first?",
+          "Ответь, что сначала нужно проверить записи.",
+          "First, we should check our notes."
+        ],
+        [
+          "Why should we ask for permission?",
+          "Объясни, что хотим использовать фотографии.",
+          "Because we want to use the photographs."
+        ],
+        [
+          "When will she send her answer?",
+          "Ответь, что завтра.",
+          "She will send it tomorrow."
+        ]
+      ]
+    },
+    {
+      "id": "feed-2026-11-20",
+      "title": "Игнатова: знакомство с продюсером и уточнение деталей интервью",
+      "kind": "modern",
+      "forDate": "2026-11-20",
+      "desc": "6 реплик учебной адаптации по мотивам Игнатовой и 12 новых современных реплик; пятница, 08:30 МСК.",
+      "turns": [
+        [
+          "A",
+          "Do you know Mr. West?",
+          "Вы знаете мистера Уэста?"
+        ],
+        [
+          "B",
+          "Yes, we met two years ago.",
+          "Да, мы познакомились два года назад."
+        ],
+        [
+          "A",
+          "Is he a producer?",
+          "Он продюсер?"
+        ],
+        [
+          "B",
+          "Yes, he is from Wilmington, USA.",
+          "Да, он из Уилмингтона, США."
+        ],
+        [
+          "A",
+          "Does he speak Russian?",
+          "Он говорит по-русски?"
+        ],
+        [
+          "B",
+          "Not yet, but he would like to learn.",
+          "Пока нет, но он хотел бы научиться."
+        ],
+        [
+          "A",
+          "Have you finished the summary of our interview?",
+          "Ты закончил краткое резюме нашего интервью?"
+        ],
+        [
+          "B",
+          "Almost. I still need to check two details.",
+          "Почти. Мне ещё нужно проверить две детали."
+        ],
+        [
+          "A",
+          "Which details are missing?",
+          "Каких деталей не хватает?"
+        ],
+        [
+          "B",
+          "The correct job title and the date of the next meeting.",
+          "Точного названия должности и даты следующей встречи."
+        ],
+        [
+          "A",
+          "I can confirm the job title with Nora.",
+          "Я могу уточнить название должности у Норы."
+        ],
+        [
+          "B",
+          "That would help. Could you also check the date?",
+          "Это помогло бы. Можешь также проверить дату?"
+        ],
+        [
+          "A",
+          "Of course. I will send her a short message.",
+          "Конечно. Я отправлю ей короткое сообщение."
+        ],
+        [
+          "B",
+          "Meanwhile, I will organize the notes by topic.",
+          "А пока я распределю записи по темам."
+        ],
+        [
+          "A",
+          "Should we include the questions we could not answer?",
+          "Нужно ли включить вопросы, на которые мы не смогли ответить?"
+        ],
+        [
+          "B",
+          "Yes, put them in a separate section.",
+          "Да, помести их в отдельный раздел."
+        ],
+        [
+          "A",
+          "When do you think the draft will be ready?",
+          "Как ты думаешь, когда черновик будет готов?"
+        ],
+        [
+          "B",
+          "By four o’clock, if we get the details in time.",
+          "К четырём часам, если мы вовремя получим подробности."
+        ]
+      ]
+    },
+    {
+      "id": "feed-2026-11-21",
+      "title": "Игнатова: знакомство с профессором и финальная редакция интервью",
+      "kind": "modern",
+      "forDate": "2026-11-21",
+      "desc": "6 подтверждённых классических реплик (повторение) и 12 современных; суббота, 10:00 МСК.",
+      "turns": [
+        [
+          "A",
+          "Nice to meet you, Mr. Berg.",
+          "Рада познакомиться, мистер Берг."
+        ],
+        [
+          "B",
+          "Nice to meet you too.",
+          "Я тоже рад познакомиться."
+        ],
+        [
+          "A",
+          "Do you know Mr. Berg well?",
+          "Вы хорошо знаете мистера Берга?"
+        ],
+        [
+          "B",
+          "Yes, we met at a conference last year.",
+          "Да, мы встретились на конференции в прошлом году."
+        ],
+        [
+          "A",
+          "Was he one of the speakers?",
+          "Он был одним из докладчиков?"
+        ],
+        [
+          "B",
+          "Yes. And his talk was very interesting.",
+          "Да. И его выступление было очень интересным."
+        ],
+        [
+          "A",
+          "Have you received Nora’s reply?",
+          "Ты получил ответ Норы?"
+        ],
+        [
+          "B",
+          "Yes, she confirmed the meeting date.",
+          "Да, она подтвердила дату встречи."
+        ],
+        [
+          "A",
+          "Great. Can we finalize the interview summary now?",
+          "Отлично. Можем теперь завершить краткий отчёт об интервью?"
+        ],
+        [
+          "B",
+          "We can, but the opening paragraph needs a small change.",
+          "Можем, но вступительный абзац нужно немного изменить."
+        ],
+        [
+          "A",
+          "What would you like to change?",
+          "Что ты хотел бы изменить?"
+        ],
+        [
+          "B",
+          "Let’s make the main point clearer.",
+          "Давай яснее сформулируем главную мысль."
+        ],
+        [
+          "A",
+          "I’ll rewrite the first two sentences.",
+          "Я перепишу первые два предложения."
+        ],
+        [
+          "B",
+          "Thanks. Please keep the tone friendly and professional.",
+          "Спасибо. Пожалуйста, сохрани дружелюбный и профессиональный тон."
+        ],
+        [
+          "A",
+          "Should I send you the revised version for review?",
+          "Мне отправить тебе исправленную версию на проверку?"
+        ],
+        [
+          "B",
+          "Yes, and please highlight the changes.",
+          "Да, и, пожалуйста, выдели изменения."
+        ],
+        [
+          "A",
+          "I’ll send it before lunch.",
+          "Я отправлю её до обеда."
+        ],
+        [
+          "B",
+          "Perfect. Then we can share the final summary with the team.",
+          "Отлично. Тогда мы сможем поделиться итоговым отчётом с командой."
+        ]
+      ]
+    },
+    {
+      "id": "feed-2026-11-23",
+      "title": "Игнатова: встреча гостей и проверка расписания",
+      "kind": "modern",
+      "forDate": "2026-11-23",
+      "desc": "6 классических реплик для повторения; 12 новых современных реплик.",
+      "turns": [
+        [
+          "A",
+          "How nice to see you again.",
+          "Как приятно снова вас видеть."
+        ],
+        [
+          "B",
+          "It’s a small world, isn’t it?",
+          "Мир тесен, не правда ли?"
+        ],
+        [
+          "A",
+          "Do you speak Russian?",
+          "Вы говорите по-русски?"
+        ],
+        [
+          "B",
+          "Not yet, but I’d like to learn.",
+          "Пока нет, но я хотел бы научиться."
+        ],
+        [
+          "A",
+          "How was your flight?",
+          "Как прошёл ваш полёт?"
+        ],
+        [
+          "B",
+          "It was fine, thank you.",
+          "Всё прошло хорошо, спасибо."
+        ],
+        [
+          "A",
+          "Are you ready to review the final schedule?",
+          "Ты готов проверить окончательное расписание?"
+        ],
+        [
+          "B",
+          "Almost. I need to check two details first.",
+          "Почти. Сначала мне нужно проверить две детали."
+        ],
+        [
+          "A",
+          "Which details are still unclear?",
+          "Какие детали пока неясны?"
+        ],
+        [
+          "B",
+          "The arrival time and the room number.",
+          "Время прибытия и номер комнаты."
+        ],
+        [
+          "A",
+          "I can confirm the room number now.",
+          "Я могу подтвердить номер комнаты сейчас."
+        ],
+        [
+          "B",
+          "That’s helpful. Could you write it down?",
+          "Это поможет. Можешь записать его?"
+        ],
+        [
+          "A",
+          "Of course. The meeting will be in room twelve.",
+          "Конечно. Встреча будет в комнате номер двенадцать."
+        ],
+        [
+          "B",
+          "Thanks. I’ll check the arrival time with the guest.",
+          "Спасибо. Я уточню время прибытия у гостя."
+        ],
+        [
+          "A",
+          "Should we prepare a printed schedule as well?",
+          "Нам также подготовить распечатанное расписание?"
+        ],
+        [
+          "B",
+          "Yes, please. One copy for each participant.",
+          "Да, пожалуйста. По одному экземпляру для каждого участника."
+        ],
+        [
+          "A",
+          "I’ll print the copies before the meeting.",
+          "Я распечатаю экземпляры до встречи."
+        ],
+        [
+          "B",
+          "Perfect. Then we’ll be ready to welcome everyone.",
+          "Отлично. Тогда мы будем готовы встретить всех."
+        ]
+      ]
+    },
+    {
+      "id": "feed-2026-11-24",
+      "title": "Игнатова: регистрация гостей и подготовка встречи",
+      "kind": "modern",
+      "forDate": "2026-11-24",
+      "desc": "6 подтверждённых классических реплик (повторение) и 12 новых современных реплик.",
+      "turns": [
+        [
+          "A",
+          "Let me introduce myself. My name is Natasha Petrova.",
+          "Позвольте представиться. Меня зовут Наташа Петрова."
+        ],
+        [
+          "B",
+          "Nice to meet you, Natasha.",
+          "Приятно познакомиться, Наташа."
+        ],
+        [
+          "A",
+          "Is everyone here?",
+          "Все здесь?"
+        ],
+        [
+          "B",
+          "Yes, the group is waiting over there.",
+          "Да, группа ждёт вон там."
+        ],
+        [
+          "A",
+          "Shall we join them?",
+          "Присоединимся к ним?"
+        ],
+        [
+          "B",
+          "Yes, let’s.",
+          "Да, давайте."
+        ],
+        [
+          "A",
+          "Has the guest list been updated?",
+          "Список гостей обновили?"
+        ],
+        [
+          "B",
+          "Yes, but two names still need checking.",
+          "Да, но два имени ещё нужно проверить."
+        ],
+        [
+          "A",
+          "Could you compare it with the registration form?",
+          "Можешь сверить его с регистрационной формой?"
+        ],
+        [
+          "B",
+          "Certainly. I noticed a spelling mistake in one surname.",
+          "Конечно. Я заметил ошибку в написании одной фамилии."
+        ],
+        [
+          "A",
+          "Please correct it before we print the badges.",
+          "Пожалуйста, исправь её, прежде чем мы напечатаем бейджи."
+        ],
+        [
+          "B",
+          "I’ll fix it now. Do we have enough badges for everyone?",
+          "Я сейчас исправлю. У нас достаточно бейджей для всех?"
+        ],
+        [
+          "A",
+          "We have enough, but the welcome desk needs more pens.",
+          "Достаточно, но на стойке регистрации нужны дополнительные ручки."
+        ],
+        [
+          "B",
+          "I can bring some from the meeting room.",
+          "Я могу принести несколько из переговорной."
+        ],
+        [
+          "A",
+          "That’s helpful. Who will greet the late arrivals?",
+          "Это поможет. Кто будет встречать опоздавших?"
+        ],
+        [
+          "B",
+          "I’ll stay near the entrance until the session begins.",
+          "Я останусь у входа до начала заседания."
+        ],
+        [
+          "A",
+          "Please let me know when the last guest arrives.",
+          "Пожалуйста, сообщи мне, когда придёт последний гость."
+        ],
+        [
+          "B",
+          "Of course. Then we can start the introductions.",
+          "Конечно. Тогда мы сможем начать представления."
+        ]
+      ]
+    },
+    {
+      "id": "feed-2026-11-25",
+      "title": "Игнатова: представление докладчика и вопросы аудитории",
+      "kind": "modern",
+      "forDate": "2026-11-25",
+      "desc": "6 знакомых реплик по прежним материалам (сверка с оригиналом учебника недоступна), 12 новых современных реплик.",
+      "turns": [
+        [
+          "A",
+          "Excuse me, are you Mr. Russell Brundan, the sociologist from London?",
+          "Извините, вы мистер Рассел Брандан, социолог из Лондона?"
+        ],
+        [
+          "B",
+          "Yes, I am.",
+          "Да."
+        ],
+        [
+          "A",
+          "Welcome to Moscow.",
+          "Добро пожаловать в Москву."
+        ],
+        [
+          "B",
+          "Thank you.",
+          "Спасибо."
+        ],
+        [
+          "A",
+          "How was your flight?",
+          "Как прошёл ваш полёт?"
+        ],
+        [
+          "B",
+          "It was fine, thank you.",
+          "Хорошо, спасибо."
+        ],
+        [
+          "A",
+          "Is the speaker ready to begin?",
+          "Докладчик готов начать?"
+        ],
+        [
+          "B",
+          "Yes, but she needs a glass of water.",
+          "Да, но ей нужен стакан воды."
+        ],
+        [
+          "A",
+          "Could you show her where to sit?",
+          "Можешь показать ей, куда сесть?"
+        ],
+        [
+          "B",
+          "Of course. I’ll take her to the front row.",
+          "Конечно. Я провожу её к первому ряду."
+        ],
+        [
+          "A",
+          "How much time has she got for her talk?",
+          "Сколько времени у неё на выступление?"
+        ],
+        [
+          "B",
+          "She has fifteen minutes, including questions.",
+          "У неё пятнадцать минут, включая вопросы."
+        ],
+        [
+          "A",
+          "Shall I introduce her to the audience?",
+          "Мне представить её аудитории?"
+        ],
+        [
+          "B",
+          "Yes, please mention her recent work.",
+          "Да, пожалуйста, упомяни её недавнюю работу."
+        ],
+        [
+          "A",
+          "What if someone asks a difficult question?",
+          "А если кто-нибудь задаст сложный вопрос?"
+        ],
+        [
+          "B",
+          "We can give her a moment to think.",
+          "Мы можем дать ей немного времени подумать."
+        ],
+        [
+          "A",
+          "Should we invite questions from the audience at the end?",
+          "Предложим слушателям задать вопросы в конце?"
+        ],
+        [
+          "B",
+          "Yes, I’ll remind everyone before we finish.",
+          "Да, я напомню всем перед завершением."
+        ]
+      ]
+    }
+  ]
+}
