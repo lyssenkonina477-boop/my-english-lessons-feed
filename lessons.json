@@ -709,6 +709,105 @@
           "Да, я напомню всем перед завершением."
         ]
       ]
+    },
+    {
+      "id": "feed-2026-11-26",
+      "title": "Игнатова: итоги конференции и обратная связь",
+      "kind": "modern",
+      "forDate": "2026-11-26",
+      "desc": "6 ранее изученных классических реплик для повторения (дословность по учебнику не подтверждена) и 12 современных; 26 ноября, 10:00 МСК.",
+      "turns": [
+        [
+          "A",
+          "Do you know Mr. Berg well?",
+          "Вы хорошо знаете господина Берга?"
+        ],
+        [
+          "B",
+          "Yes, we met at a conference last year.",
+          "Да, мы познакомились на конференции в прошлом году."
+        ],
+        [
+          "A",
+          "Was he one of the speakers?",
+          "Он был одним из докладчиков?"
+        ],
+        [
+          "B",
+          "Yes. And his talk was very interesting.",
+          "Да. И его выступление было очень интересным."
+        ],
+        [
+          "A",
+          "Do you speak Russian?",
+          "Вы говорите по-русски?"
+        ],
+        [
+          "B",
+          "Not yet, but I'd like to learn.",
+          "Пока нет, но я хотел бы научиться."
+        ],
+        [
+          "A",
+          "How do you think the conference went?",
+          "Как ты думаешь, как прошла конференция?"
+        ],
+        [
+          "B",
+          "I think it went really well.",
+          "Думаю, она прошла очень хорошо."
+        ],
+        [
+          "A",
+          "Did we get any feedback from the guests?",
+          "Мы получили отзывы от гостей?"
+        ],
+        [
+          "B",
+          "Yes, most of them were very positive.",
+          "Да, большинство отзывов были очень положительными."
+        ],
+        [
+          "A",
+          "Was there anything we could improve?",
+          "Было ли что-нибудь, что мы могли бы улучшить?"
+        ],
+        [
+          "B",
+          "We could allow more time for discussion.",
+          "Мы могли бы выделить больше времени на обсуждение."
+        ],
+        [
+          "A",
+          "That's a good point.",
+          "Хорошее замечание."
+        ],
+        [
+          "B",
+          "Shall we make a note of it for next time?",
+          "Запишем это на будущее?"
+        ],
+        [
+          "A",
+          "Yes, and let's collect the remaining feedback.",
+          "Да, и давай соберём остальные отзывы."
+        ],
+        [
+          "B",
+          "When do you need the results?",
+          "Когда тебе нужны результаты?"
+        ],
+        [
+          "A",
+          "By the end of the week, if possible.",
+          "К концу недели, если возможно."
+        ],
+        [
+          "B",
+          "I'll make sure everything is ready.",
+          "Я прослежу, чтобы всё было готово."
+        ]
+      ]
     }
   ]
 }
