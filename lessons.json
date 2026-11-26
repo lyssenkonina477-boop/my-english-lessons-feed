@@ -808,6 +808,105 @@
           "Я прослежу, чтобы всё было готово."
         ]
       ]
+    },
+    {
+      "id": "feed-2026-11-27",
+      "title": "Игнатова: предложения по улучшению следующей конференции",
+      "kind": "modern",
+      "forDate": "2026-11-27",
+      "desc": "6 ранее изученных реплик для повторения (учебная подборка, не дословная цитата учебника) и 12 современных реплик.",
+      "turns": [
+        [
+          "A",
+          "Nice to meet you, Mr. Berg.",
+          "Приятно познакомиться, господин Берг."
+        ],
+        [
+          "B",
+          "Nice to meet you too.",
+          "Мне тоже приятно познакомиться."
+        ],
+        [
+          "A",
+          "Is everyone here?",
+          "Все здесь?"
+        ],
+        [
+          "B",
+          "Yes, the group is waiting over there.",
+          "Да, группа ждёт вон там."
+        ],
+        [
+          "A",
+          "Shall we join them?",
+          "Присоединимся к ним?"
+        ],
+        [
+          "B",
+          "Yes, let's.",
+          "Да, давайте."
+        ],
+        [
+          "A",
+          "Have you had a chance to look through the feedback?",
+          "У тебя была возможность просмотреть отзывы?"
+        ],
+        [
+          "B",
+          "Yes, a few suggestions came up several times.",
+          "Да, несколько предложений повторялись."
+        ],
+        [
+          "A",
+          "Which one should we deal with first?",
+          "Каким из них нам заняться в первую очередь?"
+        ],
+        [
+          "B",
+          "I suggest we start with the breaks between sessions.",
+          "Предлагаю начать с перерывов между заседаниями."
+        ],
+        [
+          "A",
+          "Would ten extra minutes be enough?",
+          "Достаточно ли будет дополнительных десяти минут?"
+        ],
+        [
+          "B",
+          "That should give everyone time to stretch their legs.",
+          "Это должно дать всем время немного размяться."
+        ],
+        [
+          "A",
+          "Could we try that at our next event?",
+          "Можем попробовать это на следующем мероприятии?"
+        ],
+        [
+          "B",
+          "Absolutely. We can see how it works in practice.",
+          "Конечно. Посмотрим, как это работает на практике."
+        ],
+        [
+          "A",
+          "Who is going to draw up the new timetable?",
+          "Кто составит новое расписание?"
+        ],
+        [
+          "B",
+          "I'll take care of that this afternoon.",
+          "Я займусь этим сегодня после обеда."
+        ],
+        [
+          "A",
+          "Let me know if you run into any problems.",
+          "Сообщи мне, если возникнут какие-либо проблемы."
+        ],
+        [
+          "B",
+          "I will. Thanks for offering to help.",
+          "Обязательно. Спасибо за предложение помочь."
+        ]
+      ]
     }
   ]
 }
