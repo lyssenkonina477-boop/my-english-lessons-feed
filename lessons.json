@@ -907,6 +907,105 @@
           "Обязательно. Спасибо за предложение помочь."
         ]
       ]
+    },
+    {
+      "id": "feed-2026-11-28",
+      "title": "Игнатова: неожиданные изменения планов",
+      "kind": "modern",
+      "forDate": "2026-11-28",
+      "desc": "6 классических повторных реплик (включая учебное дополнение I see) и 12 новых современных. Суббота, 10:00 МСК.",
+      "turns": [
+        [
+          "A",
+          "How was your flight?",
+          "Как прошёл ваш полёт?"
+        ],
+        [
+          "B",
+          "It was fine, thank you.",
+          "Всё прошло хорошо, спасибо."
+        ],
+        [
+          "A",
+          "I'm glad to hear that.",
+          "Рада это слышать."
+        ],
+        [
+          "B",
+          "Do you speak Russian?",
+          "Вы говорите по-русски?"
+        ],
+        [
+          "A",
+          "Not yet, but I'd like to learn.",
+          "Пока нет, но я хотела бы научиться."
+        ],
+        [
+          "B",
+          "I see.",
+          "Понятно."
+        ],
+        [
+          "A",
+          "Something unexpected has come up.",
+          "Возникло непредвиденное обстоятельство."
+        ],
+        [
+          "B",
+          "What's happened?",
+          "Что случилось?"
+        ],
+        [
+          "A",
+          "One of our speakers won't be able to attend.",
+          "Один из наших докладчиков не сможет присутствовать."
+        ],
+        [
+          "B",
+          "Is there anyone who could take his place?",
+          "Есть кто-нибудь, кто мог бы его заменить?"
+        ],
+        [
+          "A",
+          "I have someone in mind.",
+          "У меня есть кое-кто на примете."
+        ],
+        [
+          "B",
+          "Have you contacted them yet?",
+          "Ты уже связалась с этим человеком?"
+        ],
+        [
+          "A",
+          "Not yet. I'll give them a call shortly.",
+          "Пока нет. Я скоро позвоню."
+        ],
+        [
+          "B",
+          "In the meantime, let's consider other options.",
+          "А пока давай рассмотрим другие варианты."
+        ],
+        [
+          "A",
+          "We could move the discussion to the morning.",
+          "Мы могли бы перенести обсуждение на утро."
+        ],
+        [
+          "B",
+          "That might be the easiest solution.",
+          "Возможно, это самое простое решение."
+        ],
+        [
+          "A",
+          "Shall we keep that as a backup plan?",
+          "Оставим это в качестве запасного плана?"
+        ],
+        [
+          "B",
+          "Yes. It's always good to have an alternative.",
+          "Да. Всегда хорошо иметь альтернативу."
+        ]
+      ]
     }
   ]
 }
